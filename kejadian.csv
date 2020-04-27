@@ -1,9 +1,9 @@
 
-group,2015,2016,2017,2018
-Januari,24,0,0,8
-Februari,33,1,0,113
-Maret,17,0,0,170
-April,15,0,0,41
-Mei,1,0,0,42
-Juni,6,0,0,13
-Juli,0,0,0,14
+group,var1,var2
+Januari,24,8
+Februari,33,113
+Maret,17,170
+April,15,41
+Mei,1,42
+Juni,6,13
+Juli,0,14
